@@ -6,12 +6,3 @@ WireSage is an open-source community building the shared tools, interfaces and e
 
 Our goal is to make that work trustworthy: typed tools instead of raw shells, safe and reversible defaults, and results that anyone can inspect and reproduce.
 
-**Projects**
-
-- [mikrotik-mcp](https://github.com/wiresage/mikrotik-mcp): an MCP server for MikroTik RouterOS.
-
-**Get involved**
-
-Open an issue or a discussion in any repository. Code, design discussions and roadmaps all live in the open.
-
-[wiresage.dev](https://wiresage.dev)
